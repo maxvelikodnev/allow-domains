@@ -431,6 +431,7 @@ ipset=/stalker2.com/vpn_domains
 ipset=/strana.news/vpn_domains
 ipset=/strana.today/vpn_domains
 ipset=/strava.com/vpn_domains
+ipset=/stripchat.com/vpn_domains
 ipset=/stulchik.net/vpn_domains
 ipset=/supercell.com/vpn_domains
 ipset=/suspilne.media/vpn_domains
