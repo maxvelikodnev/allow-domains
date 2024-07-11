@@ -1,0 +1,1 @@
+fork https://github.com/itdoginfo/allow-domains
