@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,alberta.ca
 DOMAIN-SUFFIX,alphacoders.com
 DOMAIN-SUFFIX,amazfitwatchfaces.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,amdm.ru
 DOMAIN-SUFFIX,analog.com
 DOMAIN-SUFFIX,anidub.com
@@ -153,7 +154,9 @@ DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,golosameriki.com
 DOMAIN-SUFFIX,gonitro.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gordonua.com
 DOMAIN-SUFFIX,gpsonextra.net
 DOMAIN-SUFFIX,grafana.com
@@ -302,6 +305,7 @@ DOMAIN-SUFFIX,olx.ua
 DOMAIN-SUFFIX,omv-extras.org
 DOMAIN-SUFFIX,on24.com
 DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,onlineradiobox.com
 DOMAIN-SUFFIX,onlinesim.ru
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openmedia.io
@@ -466,6 +470,7 @@ DOMAIN-SUFFIX,thetruestory.news
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,ti.com
 DOMAIN-SUFFIX,tidal.com
+DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,timberland.com
 DOMAIN-SUFFIX,tjournal.ru
 DOMAIN-SUFFIX,tmdb.org
@@ -527,6 +532,7 @@ DOMAIN-SUFFIX,wheather.com
 DOMAIN-SUFFIX,wikiart.org
 DOMAIN-SUFFIX,windguru.cz
 DOMAIN-SUFFIX,wixmp.com
+DOMAIN-SUFFIX,wk.cz
 DOMAIN-SUFFIX,wonderzine.com
 DOMAIN-SUFFIX,wpengine.com
 DOMAIN-SUFFIX,wunderground.com
@@ -539,6 +545,8 @@ DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yaoilib.me
 DOMAIN-SUFFIX,yle.fi
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,zahav.ru
 DOMAIN-SUFFIX,zannn.top
 DOMAIN-SUFFIX,zedge.net

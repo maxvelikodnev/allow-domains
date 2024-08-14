@@ -18,6 +18,7 @@ account.elements.envato.com
 account.protonmail.com
 accounts.hetzner.com
 accounts.spotify.com
+accounts.youtube.com
 activatica.org
 adguard.com
 ads-twitter.com
@@ -114,6 +115,7 @@ colta.ru
 community.cisco.com
 community.intel.com
 connect.facebook.net
+consent.youtube.com
 consumer.intel.com
 corpredirect.intel.com
 crunchyroll.com
@@ -198,7 +200,6 @@ geni.us
 genius.com
 geolocation.onetrust.com
 germania.one
-ggpht.com
 gitlab.io
 gllto.glpals.com
 glpals.com
@@ -207,7 +208,9 @@ godaddy.com
 gofile.io
 golosameriki.com
 gonitro.com
+googleapis.com
 googletagmanager.com
+googlevideo.com
 gordonua.com
 gpsonextra.net
 grafana.com
@@ -234,6 +237,8 @@ hyperhost.ua
 i-fallback.instagram.com
 i.instagram.com
 i.sakh.com
+i.ytimg.com
+i9.ytimg.com
 ibm.com
 ichef.bbci.co.uk
 id.supercell.com
@@ -295,6 +300,7 @@ linuxiac.com
 livetv.sx
 localbitcoins.com
 locals.md
+login.amd.com
 lostfilm.run
 lostfilm.tv
 lostfilm.win
@@ -361,12 +367,14 @@ oaiusercontent.com
 oasis.app
 oi.legal
 omv-extras.org
+onlineradiobox.com
 onlinesim.ru
 open.selezen.org
 open.spotify.com
 openai.com
 openmedia.io
 opensea.io
+openwrt.wk.cz
 opposition-news.com
 os.mbed.com
 ovd.legal
@@ -420,6 +428,7 @@ radiosvoboda.org
 raw-data.gitlab.io
 reactflow.dev
 realist.online
+realtimesupport.youtube.com
 redis.com
 redis.io
 redshieldvpn.com
@@ -513,6 +522,7 @@ strana.news
 strana.today
 strava.com
 stripchat.com
+studio.youtube.com
 stulchik.net
 support.cambiumnetworks.com
 support.huawei.com
@@ -545,6 +555,7 @@ thepiratebay.org
 thetruestory.news
 threads.net
 tidal.com
+tiktok.com
 timberland.com
 tjournal.ru
 tmdb.org
@@ -686,6 +697,8 @@ www.wikiart.org
 www.wonderzine.com
 www.wunderground.com
 www.yle.fi
+www.youtube.com
+www.youtubekids.com
 www.zerkalo.io
 x.com
 xhamster.com
@@ -694,6 +707,8 @@ xnxx.com
 xtracloud.net
 xvideos.com
 yaoilib.me
+youtube.com
+yt3.ggpht.com
 z-p42-chat-e2ee-ig.facebook.com
 z-p42-instagram.c10r.instagram.com
 zahav.ru
