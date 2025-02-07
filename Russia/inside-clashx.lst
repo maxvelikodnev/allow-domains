@@ -3,9 +3,9 @@ DOMAIN-SUFFIX,10minutemail.com
 DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,24.kg
 DOMAIN-SUFFIX,4freerussia.org
-DOMAIN-SUFFIX,4pda.ru
 DOMAIN-SUFFIX,4pda.to
 DOMAIN-SUFFIX,7dniv.rv.ua
+DOMAIN-SUFFIX,7tv.app
 DOMAIN-SUFFIX,9tv.co.il
 DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,abook-club.ru
@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,amazfitwatchfaces.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,amdm.ru
+DOMAIN-SUFFIX,amnezia.org
+DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,analog.com
 DOMAIN-SUFFIX,anidub.com
 DOMAIN-SUFFIX,anilibria.tv
@@ -57,6 +59,8 @@ DOMAIN-SUFFIX,booktracker.org
 DOMAIN-SUFFIX,boosteroid.com
 DOMAIN-SUFFIX,bosch-home.com
 DOMAIN-SUFFIX,bradyid.com
+DOMAIN-SUFFIX,brawlstarsgame.com
+DOMAIN-SUFFIX,bsh-group.com
 DOMAIN-SUFFIX,buckaroo.nl
 DOMAIN-SUFFIX,buf.build
 DOMAIN-SUFFIX,cambiumnetworks.com
@@ -96,6 +100,14 @@ DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,devops.com
 DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.io
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordapp.org
+DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,discours.io
 DOMAIN-SUFFIX,disctech.com
 DOMAIN-SUFFIX,dobrochan.net
@@ -129,6 +141,7 @@ DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fex.net
 DOMAIN-SUFFIX,filmix.ac
 DOMAIN-SUFFIX,filmix.biz
+DOMAIN-SUFFIX,flashscore.com
 DOMAIN-SUFFIX,flibusta.is
 DOMAIN-SUFFIX,flir.com
 DOMAIN-SUFFIX,flir.eu
@@ -146,6 +159,8 @@ DOMAIN-SUFFIX,gamesrepack.com
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,germania.one
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,glpals.com
@@ -173,6 +188,7 @@ DOMAIN-SUFFIX,healthline.com
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,holod.media
 DOMAIN-SUFFIX,home-connect.com
+DOMAIN-SUFFIX,honeywell.com
 DOMAIN-SUFFIX,hostgator.com
 DOMAIN-SUFFIX,hromadske.ua
 DOMAIN-SUFFIX,hrw.org
@@ -205,6 +221,7 @@ DOMAIN-SUFFIX,jabra.com
 DOMAIN-SUFFIX,jamf.com
 DOMAIN-SUFFIX,jauns.lv
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jut.su
 DOMAIN-SUFFIX,kamatera.com
 DOMAIN-SUFFIX,kasparov.ru
 DOMAIN-SUFFIX,kavkaz-uzel.eu
@@ -212,6 +229,7 @@ DOMAIN-SUFFIX,kavkazr.com
 DOMAIN-SUFFIX,kemono.party
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,kinobase.org
+DOMAIN-SUFFIX,kinogo.ec
 DOMAIN-SUFFIX,kinogo.la
 DOMAIN-SUFFIX,kinokopilka.pro
 DOMAIN-SUFFIX,kinovod.net
@@ -277,6 +295,7 @@ DOMAIN-SUFFIX,nasvsehtoshnit.ru
 DOMAIN-SUFFIX,navalny.com
 DOMAIN-SUFFIX,nba.com
 DOMAIN-SUFFIX,neformat.com.ua
+DOMAIN-SUFFIX,netapp.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,networksolutions.com
@@ -312,6 +331,7 @@ DOMAIN-SUFFIX,openmedia.io
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,opentrackr.org
 DOMAIN-SUFFIX,opposition-news.com
+DOMAIN-SUFFIX,orbit-games.com
 DOMAIN-SUFFIX,ovd.legal
 DOMAIN-SUFFIX,ovd.news
 DOMAIN-SUFFIX,ovdinfo.org
@@ -402,6 +422,7 @@ DOMAIN-SUFFIX,seasonvar.ru
 DOMAIN-SUFFIX,sebeanus.online
 DOMAIN-SUFFIX,selezen.org
 DOMAIN-SUFFIX,semnasem.org
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,serpstat.com
 DOMAIN-SUFFIX,servarr.com
 DOMAIN-SUFFIX,severreal.org
@@ -420,6 +441,7 @@ DOMAIN-SUFFIX,slavicsac.com
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,smartbear.com
 DOMAIN-SUFFIX,smashwords.com
+DOMAIN-SUFFIX,snapmagic.com
 DOMAIN-SUFFIX,snort.org
 DOMAIN-SUFFIX,snyk.io
 DOMAIN-SUFFIX,soapui.org
@@ -499,6 +521,7 @@ DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,ubnt.com
 DOMAIN-SUFFIX,ufile.io
 DOMAIN-SUFFIX,underver.se
 DOMAIN-SUFFIX,unian.net
@@ -509,10 +532,12 @@ DOMAIN-SUFFIX,usa.one
 DOMAIN-SUFFIX,vectorworks.net
 DOMAIN-SUFFIX,veeam.com
 DOMAIN-SUFFIX,velocidrone.com
+DOMAIN-SUFFIX,veritas.com
 DOMAIN-SUFFIX,verstka.media
 DOMAIN-SUFFIX,vesma.one
 DOMAIN-SUFFIX,vesma.today
 DOMAIN-SUFFIX,vesty.co.il
+DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,vipdrive.net
 DOMAIN-SUFFIX,voanews.com
@@ -537,6 +562,7 @@ DOMAIN-SUFFIX,wonderzine.com
 DOMAIN-SUFFIX,wpengine.com
 DOMAIN-SUFFIX,wunderground.com
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,xerox.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xnxx.com
